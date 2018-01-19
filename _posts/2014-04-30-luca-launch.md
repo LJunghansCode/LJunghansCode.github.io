@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luca Junghans, first post"
+title: "Making my first blog post!"
 date: 2014-04-30
 ---
 
