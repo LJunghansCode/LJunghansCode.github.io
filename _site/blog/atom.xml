@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Steak me home tonight, by Luca Junghans</title>
+ <link href="http://LJunghansCode.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://LJunghansCode.github.io/blog"/>
+ <updated>2018-01-19T10:02:31-08:00</updated>
+ <id>http://LJunghansCode.github.io/blog</id>
+ <author>
+   <name>Luca Junghans</name>
+   <email>luca.junghans@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Making my first blog post!</title>
+   <link href="http://LJunghansCode.github.io/blog/2014/04/30/luca-launch"/>
+   <updated>2014-04-30T00:00:00-07:00</updated>
+   <id>http://LJunghansCode.github.io//blog/2014/04/30/luca-launch</id>
+   <content type="html">&lt;p&gt;Well. Finally got around to putting this blog together&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

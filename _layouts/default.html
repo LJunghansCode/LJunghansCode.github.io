@@ -1,11 +1,34 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
+
   <body>
-    {% include navbar.html %}
-    <div class="content">
-      {{ content }}
-    </div>
-    {% include footer.html %}
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">CV</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+    </nav>
+<div class="container">
+
+  {{ content }}
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="mailto:luca.junghans@gmail.com">email</a></li>
+   <li><a href="https://github.com/LJunghansCode">github.com/LJunghansCode</a></li>
+   </ul>
+  </footer>
   </body>
+
 </html>
