@@ -1,8 +1,5 @@
 name: Luca Junghans
 markdown: kramdown
-title: Steak me home tonight
-description: Steak and Life
-theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
 defaults:
   - scope:
