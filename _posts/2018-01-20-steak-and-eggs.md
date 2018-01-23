@@ -21,7 +21,7 @@ date: 2018-01-20
    
 ***
 
->> <img src="/assets/Food/steak_eggs/eggwhole.jpg" class="blogPhoto" height="100%" width="100%"/>
+<img src="/assets/Food/steak_eggs/eggwhole.jpg" class="blogPhoto" height="100%" width="100%"/>
 
 ***
 

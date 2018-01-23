@@ -1,6 +1,6 @@
 /*@import '/_sass/_base.scss'*/
 
-body { margin: 60px auto; width: 70%; font-family: 'Montserrat', sans-serif;}
+body { margin: 60px auto; width: 90%; font-family: 'Montserrat', sans-serif;}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -30,6 +30,13 @@ ul.posts li {
   list-style: none; 
   }
 
+ul.contacts{
+  list-style: none;
+}
+ul.contacts li {
+  display: inline;
+  margin: 5%;
+}
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
@@ -60,4 +67,7 @@ ul.posts li {
 .main_header h1{
   padding-top: 10px;
   color: white;
+}
+.blogPhoto{
+  width: 90vw;
 }
