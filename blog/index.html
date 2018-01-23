@@ -7,6 +7,8 @@ title: Steak me home tonight
 </div>
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &middot; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &middot; </li>
+    <li><span class="postDate">{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}" class="postTitle" title="{{ post.title }}">{{ post.title }}</a> </li>
+    
+    <hr>  
   {% endfor %}
 </ul>

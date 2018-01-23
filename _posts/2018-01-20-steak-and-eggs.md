@@ -21,13 +21,10 @@ date: 2018-01-20
    
 ***
 
-<img src="/assets/Food/steak_eggs/eggwhole.jpg" class="blogPhoto" height="100%" width="100%"/>
+<img src="/assets/Food/steak_eggs/eggwhole.jpg" class="blogPhoto"/>
 
 ***
 
-***
 <div style="text-align: center"> 
   <blockquote class="imgur-embed-pub" lang="en" data-id="nafK5WE"><a href="//imgur.com/nafK5WE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
-
-***

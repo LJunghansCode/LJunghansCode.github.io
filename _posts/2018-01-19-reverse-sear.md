@@ -48,5 +48,3 @@ While in the pan after an extremely hot sear on both sides, butter will be used 
 ***
 
 <img src="/assets/Food/basic_reverse_sear/cut.jpg" class="blogPhoto" height="100%" width="100%"/>
-
-***
